@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Sebastian Viveros</h1>
 <h3 align="center">A passionate frontend developer from Colombia 🟡🔵🔴</h3>
 
@@ -6,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node.js and Next.js**
 
-- 🤝 I’m looking for help to **find a new job where I can apply my new knowledge**
+- 🤝 I’m looking for help to **find a new job where I can apply my new knowledge**.
 
 - 💬 Ask me about: **React, Javascript, Vue, Sass, Css, Html, .NetCore and APIs.**
 
