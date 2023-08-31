@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sebastian Viveros</h1>
 <h3 align="center">A passionate frontend developer from Colombia 🟡🔵🔴</h3>
 
-- 🔭 I’m currently working on [create a Design System](https://stacdslabsss006.z20.web.core.windows.net/?path=/docs/guide-set-up--docs)
+- 🔭 I’m currently working on create a **[Design System](https://stacdslabsss006.z20.web.core.windows.net/?path=/docs/guide-set-up--docs)**.
 
 - 🌱 I’m currently learning **Node.js and Next.js**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sebastianandresviveros@gmail.com**
 
-- 📄 Know about my experiences: [CV - AUGUST 2023](https://unimilitareduco-my.sharepoint.com/:b:/g/personal/u1201848_unimilitar_edu_co/EXm5UDEv9NVKvJDbkuyT2p0BVVTS7615b90SyZLAxLMjqA?e=6gdTIG)
+- 📄 Know about my experiences: **[CV - AUGUST 2023](https://unimilitareduco-my.sharepoint.com/:b:/g/personal/u1201848_unimilitar_edu_co/EXm5UDEv9NVKvJDbkuyT2p0BVVTS7615b90SyZLAxLMjqA?e=6gdTIG)**.
 
 - ⚡ Fun fact: **My proficiency extends beyond technical prowess; I also possess invaluable soft skills critical for success in this role. My adept communication empowers me to excel in team settings, comprehend user needs, and adeptly convey technical concepts to non-technical stakeholders. Coupled with my sharp analytical thinking, I am adept at dissecting problems and generating effective solutions.**
 
