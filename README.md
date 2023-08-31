@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Sebastian Viveros</h1>
 <h3 align="center">A passionate frontend developer from Colombia 🟡🔵🔴</h3>
 
-- 🔭 I’m currently working on [create a Design System por my current company](https://stacdslabsss006.z20.web.core.windows.net/?path=/docs/guide-set-up--docs)
+- 🔭 I’m currently working on [create a Design System](https://stacdslabsss006.z20.web.core.windows.net/?path=/docs/guide-set-up--docs)
 
 - 🌱 I’m currently learning **Node.js and Next.js**
 
 - 🤝 I’m looking for help to **find a new job where I can apply my new knowledge**
 
-- 💬 Ask me about **react, javascript, vue, sass, css, html, .NetCore and APIs.**
+- 💬 Ask me about: **React, Javascript, Vue, Sass, Css, Html, .NetCore and APIs.**
 
 - 📫 How to reach me **sebastianandresviveros@gmail.com**
 
